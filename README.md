@@ -1,2 +1,16 @@
-# cart_mobile_app_02_01_2025
-The project focuses on developing a comprehensive cart management system that allows users to efficiently manage products within their shopping cart. It includes functionalities to add, update, and remove products while retrieving product details from a dummy API, which are then stored locally for quick access.
+# cart_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
